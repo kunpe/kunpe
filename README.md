@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse !<img src="gifs/Hi.gif“ />
+### Hi there, I'm [Kun Peh](https://github.com/kunpe/) <img src="gifs/Hi.gif" width="30px"></h2
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
