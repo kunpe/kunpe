@@ -83,10 +83,10 @@
 
 <a href="https://github.com/MartinHeinz/MartinHeinz" style="display:block;display:flex">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkundev&hide_border=true"  style="float:left"/>
-  <img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true display:inline-block;
+  <img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true  style="float:right;style="display:inline-block;
 	height:100%;
 	width:0;
-	vertical-align:middle" style="float:right"/>
+	vertical-align:middle"/>
 </a>
 
 
