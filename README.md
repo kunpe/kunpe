@@ -1,5 +1,18 @@
 ### Hi there, I'm [Kun Peh](https://github.com/kunpe/) <img src="https://github.com/kunpe/kunpe/raw/master/pictures/Hi.gif" width="25px">
 
+<br />
+<a href="https://twitter.com/pengakun">
+  <img align="left" alt="Kun Peh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://t.me/KUNPE">
+  <img align="left" alt="Kunpeh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/none/">
+  <img align="left" alt="none's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
+
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
