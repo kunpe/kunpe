@@ -82,8 +82,8 @@
 ---
 
 <a href="https://github.com/MartinHeinz/MartinHeinz" style="display:block;display:flex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkundev&hide_border=true"  style="float:left"/>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" style="float:right"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkundev&hide_border=true"  style="float:left"/>
+  <img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" style="float:right"/>
 </a>
 
 
