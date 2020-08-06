@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and sport(eg: running basketball pingpong badminton)
+- ⚡ Fun fact: I love to draw and sport(eg: Running Basketball PingPong Badminton)
 
 ### Connect with me:
 
