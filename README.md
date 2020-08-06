@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse ![HI](gifs/Hi.gif)
+### Hi there, I'm Jesse !<img src="gifs/Hi.gif“ />
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
