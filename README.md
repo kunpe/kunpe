@@ -1,4 +1,4 @@
-### Hi there, I'm [Kun Peh](https://github.com/kunpe/) <img src="gifs/Hi.gif" width="25px">
+### Hi there, I'm [Kun Peh](https://github.com/kunpe/) <img src="https://github.com/kunpe/kunpe/raw/master/gifs/Hi.gif" width="25px">
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [VS Code Course][website]!
