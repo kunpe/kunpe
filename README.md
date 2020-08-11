@@ -58,11 +58,7 @@
 ---
 ### 📕 Latest Books
 <!-- BLOG-POST-LIST:START -->
-- [[Spring Boot 源码解析](https://www.notion.so/Spring-Boot-01b2a24d4fae4489ae9ff6a1fc7c3036)](https://www.notion.so/Spring-Boot-01b2a24d4fae4489ae9ff6a1fc7c3036)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Spring Boot 源码解析](https://www.notion.so/Spring-Boot-01b2a24d4fae4489ae9ff6a1fc7c3036)](https://www.notion.so/Spring-Boot-01b2a24d4fae4489ae9ff6a1fc7c3036)
 <!-- BLOG-POST-LIST:END -->
 
 ---
