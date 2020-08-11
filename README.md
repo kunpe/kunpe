@@ -59,6 +59,8 @@
 ### 📕 Latest Books
 <!-- BLOG-POST-LIST:START -->
 - [Spring Boot 源码解析](https://www.notion.so/Spring-Boot-01b2a24d4fae4489ae9ff6a1fc7c3036)](https://www.notion.so/Spring-Boot-01b2a24d4fae4489ae9ff6a1fc7c3036)
+- [Next Level G](https://www.notion.so/Spring-Boot-01b2a24d4fae4489ae9ff6a1fc7c3036)](https://www.notion.so/Spring-Boot-01b2a24d4fae4489ae9ff6a1fc7c3036)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
