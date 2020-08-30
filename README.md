@@ -69,19 +69,19 @@
 
 
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 <!-- YOUTUBE:START -->
 <!-- - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)-->
 <!-- YOUTUBE:END -->
 
----
+<!----->
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)-->
 <!-- BLOG-POST-LIST:END -->
 
----
+<!----->
 
 <a href="https://github.com/MartinHeinz/MartinHeinz" style="display:block;display:flex">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunpe&hide_border=true"  style="float:left"/>
